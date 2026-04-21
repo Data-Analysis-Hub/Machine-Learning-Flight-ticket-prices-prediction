@@ -1,4 +1,5 @@
 ## Bunch of definitions:
+
 * variance is a statistical measure of the dispersion of our data, used widely & frequently in machine learning to understand the data distribution
 * unsupervised learning is a type of machine learning where the algorithm learns from unlabelled data often used for clustering or anomaly detection
 * clustering is an unsupervised machine learning technique where the algorithm learns to group data based on similar characteristics without predefined labels.
@@ -82,3 +83,4 @@ in regression we want to predict
 # Resources:
 (https://www.youtube.com/watch?v=PcbuKRNtCUc)[first video] # unfinished
 (https://www.youtube.com/watch?v=E0Hmnixke2g)[second video]
+
