@@ -54,6 +54,33 @@
 * pvalue is a measure used in hypothesis testing to indicate the probability of observing a statistic test as extreme as the one computed given that the null hypothesis is true.
 * ttest is a statistical test used to compute the mean of two groups & determine if they are significantly from each other
 * (not-relevant) cosine similarity is a metric used to measure the cosine of the angle between 2 non-zero vectors in an inner product space 
-* dropout is a regularization technique in neural networks 
+* dropout is a regularization technique in neural networks where random selected neurons are ignored during training to prevent the overfitting problem 
+* softmax is an activation function that turns raw scores into probabilities often used in the output layer of a classification of a neural network
+* bayes theorem is a principle in probability theory & statistics that describes the probability of an event based on prior knowledge of related conditions.
+* tanh function is an activation function used in neural networks that scales the output to be in the range of -1 & 1
+* ReLU (Rectified Linear Unit) function is a nonlinear activation function used in neural networks that output the input if it's positive or 0 otherwise.
+* Mean Squared Error (MSE) function is a loss function used in regression problems that measures the average
+* the Root Mean Square Error (RMSE) provides the average magnitude of the errors 
+* R-Squared (coefficient of determination) is a statistical measure indicating the proportion of the dependent variables variance that is explained by the independent variable or variables in a regression model
+* L1/L2 regularization are techniques that add penalty terms to the loss function to prevent overfitting with L1 leading to sparse solutions & L2 shrinks the weights
+* Learning Rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving towards the minimum of the loss function, metaphorically shows the speed at which the ML Model learns 
+* Cost function it measures the cost or loss of the model's prediction compared, the optimization is to minimize the result of this loss function 
+* confusion/error matrix is a specific table that allow visualization of the performance of an algorithm, each row represent the instances of an actual class, & each column is the instances of a predicted class.
+* precision/recall, precision is the fraction of relevant instances amongst the retrieved instances reflecting the accuracy of the model in classifying positive instances while recall, also known as sensitivity is a fraction of relevant instances that were retrieved indicating the ability of the ML Model to retrieve relevant instances
+*  Area Under the Curve of the Reciever Operating Characteristic (AUR-ROC): is a performance measurement for classification problems representing the probability that a model will rank a randomly chosen positive instance higher than a randomly chosen negative one providing an aggregate measure of model performance across different classification 
+* train-test split, this is what we do for machine learning, splitting dataset into 2 one for training & one for testing & evaluating the model's performance known as the test set.
+* grid search also called parameter sweep is used for hyperparameter optimization & it's done by exaustively searching through a manually specified subset of hyper parameters of an ML Algorithm
+* anomaly detection is detection of data points that don't follow the majority of the data, significantly deviated 
+* missing values should be handled using either imputation, emission or direct analysis methods to mitigate biases & innaccuracies.
+
 ______
+
+supervised is where the ML Model has an idea about what the data is & what's about, it's labeled or we show it how a sample of the data looks like & what it is, then it trains on that, unsupervised it no intervention occurs from our side & we let it decide how it'll work; from classifying data by similarity characteristics.
+
+for supervised learning there's 2 categories , regression & classification;
+in regression we want to predict 
+
+# Resources:
+(https://www.youtube.com/watch?v=PcbuKRNtCUc)[first video] # unfinished
+(https://www.youtube.com/watch?v=E0Hmnixke2g)[second video]
 
