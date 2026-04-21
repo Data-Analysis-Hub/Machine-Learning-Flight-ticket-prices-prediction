@@ -74,7 +74,10 @@
 
 ______
 
+supervised is where the ML Model has an idea about what the data is & what's about, it's labeled or we show it how a sample of the data looks like & what it is, then it trains on that, unsupervised it no intervention occurs from our side & we let it decide how it'll work; from classifying data by similarity characteristics.
 
+for supervised learning there's 2 categories , regression & classification;
+in regression we want to predict 
 
 # Resources:
 (https://www.youtube.com/watch?v=PcbuKRNtCUc)[first video] # unfinished
