@@ -1,4 +1,5 @@
 ## Bunch of definitions:
+
 * variance is a statistical measure of the dispersion of our data, used widely & frequently in machine learning to understand the data distribution
 * unsupervised learning is a type of machine learning where the algorithm learns from unlabelled data often used for clustering or anomaly detection
 * clustering is an unsupervised machine learning technique where the algorithm learns to group data based on similar characteristics without predefined labels.
@@ -55,3 +56,4 @@
 * (not-relevant) cosine similarity is a metric used to measure the cosine of the angle between 2 non-zero vectors in an inner product space 
 * dropout is a regularization technique in neural networks 
 ______
+
