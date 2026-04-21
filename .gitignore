@@ -1,0 +1,16 @@
+# uv virtual environment (mandatory to ignore)
+.venv/
+
+# Lockfile: Generally COMMIT this for applications, IGNORE for libraries
+# uv.lock
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+/dist/
+/build/
+
+# uv-specific (if using tool-specific features)
+.python-version
+
