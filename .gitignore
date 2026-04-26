@@ -14,3 +14,5 @@ __pycache__/
 # uv-specific (if using tool-specific features)
 .python-version
 
+*.joblib
+model_metadata.json
